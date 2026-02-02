@@ -8,7 +8,7 @@ MCA Minor Project: Developing a predictive model for daily coffee sales forecast
 The project compares model accuracy, robustness, and efficiency with innovations like **residuals analysis** and **training time comparison**.
 
 ## 📊 Dataset
-- Source: Kaggle Coffee Sales Dataset  
+- Source: [Coffee Sales Forecasting Dataset on Kaggle](https://www.kaggle.com/datasets/navjotkaushal/coffee-sales-dataset)
 - Contains transaction-level records of coffee sales (date, quantity, price, etc.)  
 - Preprocessing steps: cleaning, aggregation to daily totals, feature engineering (weekday/weekend flag)
 
